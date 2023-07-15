@@ -1,7 +1,7 @@
 <?php // kode blok php
 $nilai = 86; // mendefinisikan variabel nilai
 
-if (($nilai >= 85) && ($nilai <=100)) //M emulai sebuah blok kondisional. Jika nilai $nilai berada di antara 85 dan 100 (inklusif), maka blok kode dalam if ini akan dieksekusi.
+if (($nilai >= 85) && ($nilai <=100)) // Jika nilai $nilai berada di antara 85 dan 100 (inklusif), maka blok kode dalam if ini akan dieksekusi.
 
 {
  $grade = "A"; // Jika kondisi pada baris sebelumnya terpenuhi, maka variabel $grade akan diisi dengan string "A".
